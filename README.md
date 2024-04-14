@@ -1,1 +1,1 @@
-A code repo for React js
+A code repo for React-js
